@@ -5,7 +5,7 @@ int int_value;
 float float_value;
 bool bool_value = true;
 
-uint8_t broadcastAddress[] = {Lsave mac adress};
+uint8_t broadcastAddress[] = {slave mac adress};
 
 typedef struct struct_message {
   char a[32];
